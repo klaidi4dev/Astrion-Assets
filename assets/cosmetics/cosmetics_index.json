@@ -40,5 +40,34 @@
   "hats": {},
   "emotes": {},
   "pets": {},
-  "effects": {}
+  "effects": {
+    "blue_comet": "Blue Comet",
+    "blue_cross": "Blue Cross",
+    "blue_star": "Blue Star",
+    "blue_swirl": "Blue Swirl",
+    "cyan_droplet": "Cyan Droplet",
+    "golden_ring": "Golden Ring",
+    "green_star": "Green Star",
+    "pink_butterfly": "Pink Butterfly",
+    "purple_crystals": "Purple Crystals",
+    "purple_swirl": "Purple Swirl",
+    "red_crystals": "Red Crystals",
+    "yellow_star": "Yellow Star",
+
+    "blue_crystal_cluster": "Blue Crystal Cluster",
+    "blue_crystal_star": "Blue Crystal Star",
+    "blue_galaxy": "Blue Galaxy",
+    "crossed_swords": "Crossed Swords",
+    "fire_rose": "Fire Rose",
+    "golden_coin": "Golden Coin",
+    "golden_galaxy": "Golden Galaxy",
+    "golden_tornado": "Golden Tornado",
+    "green_leaf_swirl": "Green Leaf Swirl",
+    "hourglass_orbit": "Hourglass Orbit",
+    "orange_ring": "Orange Ring",
+    "pink_heart": "Pink Heart",
+    "purple_cloud_moon": "Purple Cloud Moon",
+    "purple_swirl_moon": "Purple Swirl Moon",
+    "rainbow_comet": "Rainbow Comet"
+  }
 }
