@@ -39,11 +39,14 @@
     "purple_sky": "Purple Sky",
     "helldrive": "HellDrive",
     "flamecap": "Flame",
-    "ghast": "Ghast",
     "neon_panda": "Neon Panda",
     "villagevampire": "Village Vampire",
     "heart": "Heart",
-    "hellfirecloak": "Hellfire Cloak"
+    "hellfirecloak": "Hellfire Cloak",
+    "aurora": "Aurora",
+    "twisted": "Twisted",
+    "hero": "Hero",
+    "sliceslayer": "Slice Slayer"
   },
   "effects": {
     "blue_comet": "Blue Comet",
