@@ -36,7 +36,14 @@
     "yearn": "Yearn",
     "zombie_horse": "Zombie Horse",
     "pink_sky": "Pink Sky",
-    "purple_sky": "Purple Sky"
+    "purple_sky": "Purple Sky",
+    "helldrive": "HellDrive",
+    "flamecap": "Flame",
+    "ghast": "Ghast",
+    "neon_panda": "Neon Panda",
+    "villagevampire": "Village Vampire",
+    "heart": "Heart",
+    "hellfirecloak": "Hellfire Cloak"
   },
   "effects": {
     "blue_comet": "Blue Comet",
