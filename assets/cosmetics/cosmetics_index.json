@@ -44,9 +44,11 @@
     "heart": "Heart",
     "hellfirecloak": "Hellfire Cloak",
     "aurora": "Aurora",
-    "warden": "Warden",
+    "twisted": "Twisted",
     "hero": "Hero",
-    "sliceslayer": "Slice Slayer"
+    "sliceslayer": "Slice Slayer",
+    "ghast": "Ghast",
+    "sun_and_moon": "Sun and moon"
   },
   "effects": {
     "blue_comet": "Blue Comet",
